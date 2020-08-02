@@ -10,19 +10,19 @@ export default function Home({ allPostsData }) {
     <Layout home>
       <Head>
         <title>{siteTitle}</title>
+
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello, this is <strong>Secret Breakfast</strong>. The best place for starting your day, an exclusive food-loving <strong>newsletter</strong> and, incidentally, a boozy ice cream flavor.
+          Hello, this is <strong>Secret Breakfast</strong>. An exclusive food loving <strong>newsletter</strong>. Prime food for thought, crunchy angles, no mainstream junk.
         </p>
-        <p align="center">
-        ⏰ + ✉️ + 🍦
-        </p>
+
         <p>
-          We are gonna start soon, we promise prime food for thought, crunchy angles, absolutely no mainstream junk. If you believe, subscribe, <a href="">nibble something</a> o read the <a href="">AMA</a>
+          We are gonna start soon and find together the missing ingredients that umami our lives. If you believe, subscribe, <a href="">nibble something</a> or <a href="/posts/about">learn more</a>.
         </p>
-        
+
       </section>
+
     </Layout>
   )
 }

@@ -18,7 +18,7 @@ export default function Home({ allPostsData }) {
         </p>
 
         <p>
-          We are gonna start soon and find together the missing ingredients that umami our lives. If you believe, subscribe, <a href="">nibble something</a> or <a href="/posts/about">learn more</a>.
+          We are gonna start soon and find together the missing ingredients that umami our existence in new and dangerous ways. If you believe, <a href="/posts/subscribe">subscribe</a>, <a href="posts/you-are-invited">nibble something</a> or <a href="/posts/about">learn more</a>.
         </p>
 
       </section>

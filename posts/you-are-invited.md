@@ -2,7 +2,7 @@
 title: "You're Invited"
 date: "2020-01-01"
 ---
-🔻_This is a sample of Secret Breakfast: you can get the vibe, non the real structure_🔻
+🔻_This is a sample of Secret Breakfast: you can get the vibe_🔻
 
 
 ![St. John Bread & Wine](https://i0.wp.com/www.clinkhostels.com/wp-content/uploads/2020/01/rare-breed-bacon-sandwich.jpg)
@@ -20,7 +20,7 @@ Let's have our first secret breakfast.
 
 <blockquote>Use the time of a total stranger in such a way that he or she will not feel the time was wasted.</blockquote>
 
---Kurt Vonnegut
+--Kurt Vonnegut, author and [writing rules master](http://www.novelr.com/2007/11/15/kurt-vonneguts-8-rules-for-writing-fiction)
 
 ----
 ### THREE OBSESSIONS 👩‍🍳+🍳+💻
@@ -41,13 +41,13 @@ And even if I keep the anchovies' oil (and she doesn't) or she does hate avocado
 
 
 #### The pan I haven't bought. Yet.
-The pan, that's my problem. I don't own a multy layered stainless steel pan (basically a sandwich made of stainless steel, aluminum, and steel again).
+The pan, that's my problem. I do not own a multi-layered stainless steel pan (basically a sandwich made of stainless steel, aluminum, and steel again).
 
-One reason: I'm afraid it's hard to maintain clean and polished. Reason number two: I wanted to go for an All-Clad when in the States, and that option is now on pause. That's why here comes the frenchie De Buyer Affinity 32 cm, or the italian Pentole Agnelli version, or the Mauviel M'cook 28 cm, that is my personal favorite now.
+One reason: I'm afraid it's hard to maintain clean and polished. Reason number two: I wanted to go for an All-Clad when in the States, and that option is now on pause. That's why here comes the frenchie [De Buyer Affinity 32 cm](https://www.debuyer-brandshop.com/de-Buyer-Stainless-Steel-Frypan-32-cm-AFFINITY), or the italian [Pentole Agnelli](https://www.pentoleagnelli.it/index.php/linee/acciaio-inox-18-10/linea-acciaio-inox-18-10) version, or the [Mauviel M'cook 28 cm](https://www.amazon.com/Mauviel-5242-28-Non-Stick-Non-Stick-Stainless/dp/B00J58O5EK), that is my personal favorite now.
 
 ![Mauviel](https://images-na.ssl-images-amazon.com/images/I/71mxmMU6ohL._AC_SX679_.jpg)
 
 <br />
 
 #### What is Next.js?
-It's a React framework, basically a way to build fast websites and webapps. I played a bit and built this site with [NEXT.JS](https://nextjs.org/). Do you need to learn it? No, of course.
+It's a React framework, basically a way to build fast websites and web apps. I played a bit and built this site with [NEXT.JS](https://nextjs.org/). Do you need to learn it? No, of course.

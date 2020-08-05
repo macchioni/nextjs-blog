@@ -25,6 +25,9 @@ No, I’m not.
 #### C’mon…
 No. A newsletter is a medium based on trust. And to be trustworthy and build something I need to be 100% free. The newsletter has been chosen to escape the (winning?) living-ad-model we’re experiencing through social media, that is not wrong at all but lacks something if you’re searching for authenticity.
 
+#### I've seen Amazon links, are they clean?
+Yes, they are, no affiliation here. I try to link to the original source anytime I can, or independent sellers, but sometimes Azw still offers the best information for the reader (and the most consistent over time).
+
 #### I’m not a cook, I’m not a foodie, why should I subscribe?
 Well, they say that wherever you go, food and sky will always follow you. What we eat is part of the world we grow. What we share at the table is how we take care of the people we love. Food, ultimately, is a way to understand better people, places, memories, desires. And, as I see it, a way to enjoy life.
 
@@ -35,7 +38,7 @@ We’re starting free with the dream of building a passionate community. We hope
 Privacy and legal stuff are here. The ball, you see, will be always in your hand. Now give us a chance, accept the invitation to our Secret Breakfast and, if you like it, tell your friends.
 
 #### Who are you?
-This is [Piero Macchioni](https://macchioni.cc), journalist, food passionate, fermenting mind, open web believer and passionate about [article 15](https://it.wikipedia.org/wiki/Libert%C3%A0_e_segretezza_della_corrispondenza) of the Italian Constitution.
+This is [Piero Macchioni](https://macchioni.cc), journalist, food maniac, fermenting mind, open web believer and passionate about [article 15](https://it.wikipedia.org/wiki/Libert%C3%A0_e_segretezza_della_corrispondenza) of the Italian Constitution.
 
-##### One last thing: why do you say you’re an ice-cream flavor?
-Secret Breakfast is the name of one of the bestseller gelatos at Humphry Slocombe’s, in San Francisco. You should Google that and find the way to get a pint. No ads here, just a friendly suggestion.
+##### One last thing: why do you say Secret Breakfast an ice-cream flavor?
+Secret Breakfast is the name of one of the bestseller gelatos at Humphry Slocombe’s, in San Francisco, US. You should Google that and find the way to get a pint. No ads here, just a friendly suggestion.

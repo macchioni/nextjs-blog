@@ -12,6 +12,7 @@ date: "2020-08-02"
 </p>
 
 
+
 <link rel="stylesheet"
       href="https://emailoctopus.com/bundles/emailoctopuslist/css/1.6/form.css"
 >
@@ -25,9 +26,9 @@ date: "2020-08-02"
   </p>
   <p class="emailoctopus-error-message">
   </p>
-  <form action="https://emailoctopus.com/lists/f5c52282-0bff-11eb-a3d0-06b4694bee2a/members/embedded/1.3s/add"
+  <form action="https://emailoctopus.com/lists/d1be8ca3-0c88-11eb-a3d0-06b4694bee2a/members/embedded/1.3s/add"
         method="post"
-        data-message-success="Thanks for subscribing to Secret Breakfast Newsletter. We promise not to fill your inbox with untatsy nonsense. We'll get in touch soon."
+        data-message-success="You made it to Secret Breakfast! Check your email for confirmation"
         data-message-missing-email-address="Your email address is required."
         data-message-invalid-email-address="Your email address looks incorrect, please try again."
         data-message-bot-submission-error="This doesn't look like a human submission."
@@ -62,20 +63,12 @@ date: "2020-08-02"
              name="successRedirectUrl"
       >
       <button type="submit"
-              style="background-color: rgb(223, 36, 91); color: rgb(241, 241, 241); font-family: inherit;"
+              style="background-color: rgb(223, 36, 91); color: rgb(255, 255, 255); font-family: inherit;"
       >
         Subscribe
       </button>
     </div>
   </form>
-  <div class="emailoctopus-rewards">
-    Powered by
-    <a href="https://emailoctopus.com/?urli=P7cwV&amp;utm_medium=user_referral&amp;utm_source=builder"
-       target="_blank"
-    >
-      EmailOctopus
-    </a>
-  </div>
 </div>
 <script src="https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-recaptcha.js">
 </script>

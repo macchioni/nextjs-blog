@@ -13,14 +13,15 @@ date: "2020-11-01"
 
 
 
+
 <link rel="stylesheet"
       href="https://emailoctopus.com/bundles/emailoctopuslist/css/1.6/form.css"
 >
-<div class="emailoctopus-form-wrapper emailoctopus-form-default emailoctopus-form-wrapper-large"
+<div class="emailoctopus-form-wrapper emailoctopus-form-default null"
      style="font-family: Arial, &quot;Helvetica Neue&quot;, Helvetica, sans-serif; color: rgb(26, 26, 26);"
 >
   <h2 class="emailoctopus-heading">
-    Subscribe to Secret Breakfast
+    Join Secret Breakfast Newsletter
   </h2>
   <p class="emailoctopus-success-message">
   </p>
@@ -28,7 +29,7 @@ date: "2020-11-01"
   </p>
   <form action="https://emailoctopus.com/lists/d1be8ca3-0c88-11eb-a3d0-06b4694bee2a/members/embedded/1.3s/add"
         method="post"
-        data-message-success="You made it to Secret Breakfast! Check your email for confirmation"
+        data-message-success="You made it to Secret Breakfast! Please, check your email for confirmation"
         data-message-missing-email-address="Your email address is required."
         data-message-invalid-email-address="Your email address looks incorrect, please try again."
         data-message-bot-submission-error="This doesn't look like a human submission."
@@ -38,6 +39,16 @@ date: "2020-11-01"
         class="emailoctopus-form"
         data-sitekey="6LdYsmsUAAAAAPXVTt-ovRsPIJ_IVhvYBBhGvRV6"
   >
+    <div class="emailoctopus-form-row">
+      <label for="field_1">
+        First name
+      </label>
+      <input id="field_1"
+             name="field_1"
+             type="text"
+             placeholder
+      >
+    </div>
     <div class="emailoctopus-form-row">
       <label for="field_0">
         Email address

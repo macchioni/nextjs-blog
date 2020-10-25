@@ -39,7 +39,13 @@ export default function Layout({ children, home }) {
                   )}.png?theme=light&md=0&fontSize=75px&images=https%3A%2F%2Fassets.zeit.co%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-black-logo.svg`}
                 />
                 <meta name="og:title" content={siteTitle} />
-                <meta name="twitter:card" content="summary_large_image"/>
+                <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@SecretBkfst" />
+        <meta name="twitter:title" content="Secret Breakfast Newsletter" />
+        <meta name="twitter:description" content="An exclusive food loving newsletter. Prime food for thought, crunchy angles, no mainstream junk. Subscribe!" />
+        <meta name="twitter:image" content="https://secretbreakfast.club/images/secretbreakfast-256.png" />
+
+
       </Head>
       <header className={styles.header}>
         {home ? (

@@ -29,7 +29,7 @@ date: "2020-11-01"
   </p>
   <form action="https://emailoctopus.com/lists/d1be8ca3-0c88-11eb-a3d0-06b4694bee2a/members/embedded/1.3s/add"
         method="post"
-        data-message-success="You made it to Secret Breakfast! Please, check your email for confirmation"
+        data-message-success="You made it to Secret Breakfast! Please, check your email for confirmation, probably into the SPAM folder if you're using Gmail."
         data-message-missing-email-address="Your email address is required."
         data-message-invalid-email-address="Your email address looks incorrect, please try again."
         data-message-bot-submission-error="This doesn't look like a human submission."

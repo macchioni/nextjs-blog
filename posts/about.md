@@ -41,4 +41,4 @@ Privacy and legal stuff are [here](https://emailoctopus.com/legal/privacy), via 
 This is [Piero Macchioni](https://macchioni.cc), journalist, food maniac, fermenting mind, open web believer and passionate about [article 15](https://it.wikipedia.org/wiki/Libert%C3%A0_e_segretezza_della_corrispondenza) of the Italian Constitution.
 
 ##### One last thing: why do you say Secret Breakfast an ice-cream flavor?
-Secret Breakfast is the name of one of the bestseller gelatos at Humphry Slocombe’s, in San Francisco, US. You should Google that and find the way to get a pint. No ads here, just a friendly suggestion.
+Secret Breakfast is the name of one of the bestseller gelatos at Humphry Slocombe’s, in San Francisco, US. You should Google that and find a way to get a pint. No ads here, just a friendly suggestion.

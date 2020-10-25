@@ -5,6 +5,22 @@ import { getSortedPostsData } from '../lib/posts'
 import Link from 'next/link'
 import Date from '../components/date'
 
+function YourPage() {
+  return (
+    <div>
+      <Head>
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@SecretBkfst" />
+        <meta name="twitter:title" content="Secret Breakfast Newsletter" />
+        <meta name="twitter:description" content="An exclusive food loving newsletter. Prime food for thought, crunchy angles, no mainstream junk. Subscribe!" />
+        <meta name="twitter:image" content="https://secretbreakfast.club/images/profile.jpg" />
+      </Head>
+      <p>Your page content.</p>
+    </div>
+  )
+}
+
+
 export default function Home({ allPostsData }) {
   return (
     <Layout home>

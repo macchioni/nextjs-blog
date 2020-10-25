@@ -13,7 +13,7 @@ function YourPage() {
         <meta name="twitter:site" content="@SecretBkfst" />
         <meta name="twitter:title" content="Secret Breakfast Newsletter" />
         <meta name="twitter:description" content="An exclusive food loving newsletter. Prime food for thought, crunchy angles, no mainstream junk. Subscribe!" />
-        <meta name="twitter:image" content="https://secretbreakfast.club/images/profile.jpg" />
+        <meta name="twitter:image" content="https://secretbreakfast.club/images/secretbreakfast-256.png" />
       </Head>
       <p>Your page content.</p>
     </div>

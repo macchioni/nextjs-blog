@@ -1,6 +1,6 @@
 ---
 title: "Get your invite!"
-date: "2020-08-02"
+date: "2020-11-01"
 ---
 
 <p>

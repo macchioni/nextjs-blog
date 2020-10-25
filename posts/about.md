@@ -35,7 +35,7 @@ Well, they say that wherever you go, food and sky will always follow you. What w
 We’re starting free with the dream of building a passionate community. We hope we grow, we’ll listen to you, we’ll pivot, when necessary.
 
 #### Who am I giving my email address?
-Privacy and legal stuff are here. The ball, you see, will be always in your hand. Now give us a chance, accept the invitation to our Secret Breakfast and, if you like it, tell your friends.
+Privacy and legal stuff are [here](https://emailoctopus.com/legal/privacy), via Email Octopus. The ball, you see, will be always in your hand. We hope you give us a chance, accept the invitation to our Secret Breakfast and, if you like it, tell your friends.
 
 #### Who are you?
 This is [Piero Macchioni](https://macchioni.cc), journalist, food maniac, fermenting mind, open web believer and passionate about [article 15](https://it.wikipedia.org/wiki/Libert%C3%A0_e_segretezza_della_corrispondenza) of the Italian Constitution.

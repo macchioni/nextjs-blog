@@ -32,8 +32,8 @@ export default function Layout({ children, home }) {
         <meta
           name="description"
           content="The exclusive food-loving newsletter with the missing ingredients of our lives. Crunchy angles and no mainstream junk."/>
-      
-                <meta name="og:title" content={siteTitle} />
+      <meta name="og:image" content="https://secretbreakfast.club/images/secretbreakfast-256.png" />
+      <meta name="og:title" content={siteTitle} />
                 <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@SecretBkfst" />
         <meta name="twitter:title" content="Secret Breakfast Newsletter" />

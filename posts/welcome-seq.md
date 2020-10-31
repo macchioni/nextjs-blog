@@ -345,22 +345,4 @@ PS: I'm currently merging my old subscribers' list in one list. I hope I did rig
             </td>
     </tr>
     </tbody>
-</table><table class="container" style="margin-bottom: 0px; padding-top: 5px; padding-bottom: 5px;" eo-row="one-column" role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="" align="center">
-    <tbody>
-        <tr>
-            <td class="container" style="padding: 0 15px 15px;" eo-block-container="" width="100%"><table style="table-layout: fixed; width: 100%;" eo-block="divider" role="presentation" aria="hidden" width="100%">
-    <tbody>
-    <tr>
-        <td style="min-width:100%;padding-top:15px; padding-bottom:15px;">
-            <table style="border-top:1px solid #DCD6D1;border-collapse:collapse; width:100%" cellspacing="0" cellpadding="0" border="0" align="center">
-                <tbody>
-                    <tr>
-                        <td>
-                            <span></span>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-        </td>
-    </tr>
-    </tbody>
+</table>

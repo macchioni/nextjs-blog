@@ -3,6 +3,12 @@ title: "Meet me at the Longhouse"
 date: "2020-01-01"
 ---
 
+## Welcome to Secret Breakfast
+
+### An exclusive newsletter, the best place for starting your day and, incidentally, a primitive spot to be proud of
+
+![proud](https://gallery.eomail5.com/2f942933-0bf5-11eb-a3d0-06b4694bee2a%2F1603228026055-famine.jpg)
+
 Hi there, today I booked for us a place into the future. 
 
 A future with no Artificial Intelligence ruling our lives yet, no Elon Musks defending us with some electric-God-knows-what powers, no levitating skateboards.

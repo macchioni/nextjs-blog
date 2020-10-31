@@ -2,7 +2,112 @@
 title: "You're Invited"
 date: "2020-01-01"
 ---
-🔻_This is a sample of Secret Breakfast: you can get the vibe_🔻
+    <style>
+        /* Box sizing. Gets decent support. */
+        
+        *,
+        *:after,
+        *:before {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+        /* Prevents small text resizing. */
+        
+        * {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+        /* Basic reset. Removes default spacing around emails in various clients.  */
+        
+        html,
+        body,
+        .document {
+            width: 100% !important;
+            height: 100% !important;
+            margin: 0;
+            padding: 0;
+        }
+        /* Improves text rendering when supported. */
+        
+        body {
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            text-rendering: optimizeLegibility;
+        }
+        /* Centers email to device width in Android 4.4.  */
+        div[style*="margin: 16px 0"] {
+            margin: 0 !important;
+        }
+        /* Removes added spacing within tables in Outlook.  */
+        
+        table,
+        td {
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+        }
+        /* Removes added spacing within tables in WebKit. */
+        
+        table {
+            border-spacing: 0;
+            border-collapse: collapse;
+            table-layout: fixed;
+            margin: 0 auto;
+        }
+        /* Responsive images. Improves rendering of scaled images in IE. */
+        img {
+            -ms-interpolation-mode: bicubic;
+            max-width: 100%;
+            border: 0;
+        }
+        /* Overrules triggered links in iOS. */
+        
+        *[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+        }
+        /* Overrules triggered links in Gmail. */
+        
+        .x-gmail-data-detectors,
+        .x-gmail-data-detectors *,
+        .aBn {
+            border-bottom: 0 !important;
+            cursor: default !important;
+        }
+
+        /* Define font */
+        body,
+        html,
+        td {
+            font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; /* Font family */
+            color: rgb(94, 95, 97); /* Font color */
+        }
+
+        /* Froala specific styling to make the link take wrapper styling */
+        span > a {
+            color: inherit !important;
+        }
+
+        /* Media queries o' doom. */
+        @media screen and (max-width: 450px) {
+            /* Transitions container to a fluid layout. */
+            .container {
+                width: 100%;
+                margin: auto;
+            }
+            /* Collapses table cells into full-width rows. */
+            .stack {
+                display: block!important;
+                width: 100%!important;
+                max-width: 100%!important;
+            }
+        }
+    
+            .open-sans, .open-sans .text-block, .open-sans .text-block h1, .open-sans td a {
+                font-family: 'Open Sans', 'Google Sans', -apple-system, BlinkMacSystemFont, Arial, sans-serif!important;
+            }
+</style>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"></head>
 
 <body style='color: rgb(94, 95, 97); font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 16px; background-color: #e8e9eb;' eo-background="" class="" data-new-gr-c-s-check-loaded="14.980.0" bgcolor="#e8e9eb">
     <!-- Preheader text. Visible in inbox preview, not in email body. -->

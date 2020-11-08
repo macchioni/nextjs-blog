@@ -14,11 +14,12 @@ date: "2020-11-01"
 
 
 
+
 <link rel="stylesheet"
       href="https://emailoctopus.com/bundles/emailoctopuslist/css/1.6/form.css"
 >
-<div class="emailoctopus-form-wrapper emailoctopus-form-default null"
-     style="font-family: Arial, &quot;Helvetica Neue&quot;, Helvetica, sans-serif; color: rgb(26, 26, 26);"
+<div class="emailoctopus-form-wrapper emailoctopus-form-default emailoctopus-form-wrapper-large"
+     style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif; color: rgb(26, 26, 26);"
 >
   <h2 class="emailoctopus-heading">
     Join Secret Breakfast Newsletter
@@ -27,7 +28,7 @@ date: "2020-11-01"
   </p>
   <p class="emailoctopus-error-message">
   </p>
-  <form action="https://emailoctopus.com/lists/d1be8ca3-0c88-11eb-a3d0-06b4694bee2a/members/embedded/1.3s/add"
+  <form action="https://emailoctopus.com/lists/bd6fe959-21bb-11eb-a3d0-06b4694bee2a/members/embedded/1.3s/add"
         method="post"
         data-message-success="You made it to Secret Breakfast! Please, check your email for confirmation, probably into the SPAM folder if you're using Gmail."
         data-message-missing-email-address="Your email address is required."
@@ -74,7 +75,7 @@ date: "2020-11-01"
              name="successRedirectUrl"
       >
       <button type="submit"
-              style="background-color: rgb(223, 36, 91); color: rgb(255, 255, 255); font-family: inherit;"
+              style="background-color: rgb(223, 36, 91); color: rgb(255, 255, 255); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;"
       >
         Subscribe
       </button>

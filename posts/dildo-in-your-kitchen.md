@@ -29,7 +29,7 @@ Piero
 **PPS**: thanks to some SEO genius we’re in a pretty good spot on  [InboxReads](https://inboxreads.co/) , a directory of wonderful newsletters. 
 
 
-`The rest of the newsletter is for subscribers only
+👉🏻 `The full newsletter is for subscribers only`
 
 <link rel="stylesheet"
       href="https://emailoctopus.com/bundles/emailoctopuslist/css/1.6/form.css"

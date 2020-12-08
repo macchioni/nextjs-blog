@@ -28,7 +28,7 @@ PS: Sorry, I used good old Gordon tearing a menu apart, but this portrait always
 
 PPS: are you liking  [Secret Breakfast](https://secretbreakfast.club/posts/subscribe) ? Don’t forget to share with people who could like it too. 
 
-`The rest of the newsletter is for subscribers only`
+👉🏻 `The full newsletter is for subscribers only`
 
 <link rel="stylesheet"
       href="https://emailoctopus.com/bundles/emailoctopuslist/css/1.6/form.css"

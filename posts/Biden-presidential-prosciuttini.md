@@ -26,7 +26,7 @@ God bless you and your prosciuttini, Delaware Joe, enjoy the rest of this thick 
 
 Piero
 
-`The rest of the newsletter is for subscribers only`
+👉🏻 `The full newsletter is for subscribers only`
 
 <link rel="stylesheet"
       href="https://emailoctopus.com/bundles/emailoctopuslist/css/1.6/form.css"

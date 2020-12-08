@@ -42,7 +42,7 @@ Piero
 **PS**: the image above is a scarf made some time ago by Valentino in collaboration with Undercover.
 **PPS:**wanna show some romance? Share this newsletter with somebody who could like it. Or hate it. Let’s be inclusive.
 
-`The full newsletter is for subscribers only`
+👉🏻 `The full newsletter is for subscribers only`
 
 <link rel="stylesheet"
       href="https://emailoctopus.com/bundles/emailoctopuslist/css/1.6/form.css"

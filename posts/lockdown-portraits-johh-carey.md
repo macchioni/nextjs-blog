@@ -6,7 +6,7 @@ date: "2020-12-22"
 
 ## Portraits of hunger
 
-###For the serie *#lockdownportraits* photographer *John Carey* has shot London chefs in their closed restaurants during lockdown. «Showing their personal emotion», he says, «they are reflecting the way the whole industry feels»
+### For the serie *#lockdownportraits* photographer *John Carey* has shot London chefs in their closed restaurants during lockdown. «Showing their personal emotion», he says, «they are reflecting the way the whole industry feels»
 
 ![The Ritz, London](/lockdown_TheRitz_JohnWilliams.jpg)
 
@@ -15,16 +15,20 @@ date: "2020-12-22"
 Carey describes the head chef John Williams «a supremely talented chef, an amazing person» and The Ritz, «such an iconic London establishment». The place was open during the Second World War, but couldn't funciorn during 2020 crisis.
 
 **John, is there a lockdown portrait more meaningful to you?**
+
 «They are all equally important to me. This pandemic has affected everyone, its not been selective. However, I do feel the Uk Government has been selective and has been particularly unfair to hospitality. The chefs as well as showing their personal emotion are really just reflecting the way the whole industry feels».
 
 **How did this project start?**
+
 «During lockdown I, like a lot of freelancers working in the creative industry, had all my work cancelled or postponed. I didn’t even open my camera box for about 10 weeks: the longest period since I was a teenager. I knew I needed to do something creative, something to document this period of history. The industry I know best is the london restaurant scene and I couldn't get it out of my head that this world I enter most days that is full of people socialising, full of life, characters, energy, noise, colour, creativity, hard work, pleasure had just stopped. I missed it. I thought about these empty ghostly spaces and the people that were being affected. I started approaching a few chefs that I knew and went from there. the whole project has been self motivated and self funded. I am so grateful to the chefs, who have shown me an incredible amount of trust and vulnerability. nearly every chef has said "yes" when I have approached them directly».
 
 **How have you shot them?**
+
 «I photograph a lot of chefs and restaurants in normal times. I make the chefs look as good as they can: I light them, I make the restaurants look as perfect as possible, but this wasn't a "normal" time. I decided to embark on a project to highlight the raw emotion that lockdown had evoked. I didn't set up the restaurants, didn't turn the lights on, didn't light the chefs (I didn't want to add that layer of gloss). I shot in black and white to keep the series consistent, I didn't care if the images were grainy due to lack of light, I just wanted to capture it as it was. I told the chefs to be as still as possible (they usually dont stop moving both in mind and body). the restaurants were locked down and the chefs were isolated (isolated from their teams/their supliers/their customers), they couldn't do what they love to do. they weren't allowed to cook and serve a meal to a customer in their restaurants».
 
 
 **Lockdown Portraits is going to become a book, an exhibition or a serie of prints?**
+
 «I am hoping for all of the above, but no plans as yet. An exhibition has always been the dream. I think the pandemic needs to pass before we can look back at a project like this».
 
 

@@ -3,9 +3,6 @@ title: "Lockdown Portraits by John Carey"
 date: "2020-12-22"
 ---
 
-
-## Portraits of hunger
-
 ### For the serie *#lockdownportraits* photographer *John Carey* has shot London chefs in their closed restaurants during lockdown. «Showing their personal emotion», he says, «they are reflecting the way the whole industry feels»
 
 ![The Ritz, London](/lockdown_TheRitz_JohnWilliams.jpg)

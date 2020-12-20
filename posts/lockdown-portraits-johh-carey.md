@@ -5,7 +5,7 @@ date: "2020-12-22"
 
 ### For the serie *#lockdownportraits* photographer *John Carey* has shot London chefs in their closed restaurants during lockdown. «Showing their personal emotion», he says, «they are reflecting the way the whole industry feels»
 
-![The Ritz, London](/lockdown_TheRitz_JohnWilliams.jpg)
+![The Ritz, London](https://secretbreakfast.club/images/lockdown_TheRitz_JohnWilliams.jpg)
 
 «I spent a lot of time at The Ritz last year shooting their first ever cookbook, so its a place that I know very well and fell in love with». John Carey is explaining why he decided the picture above is so meaningful: that has been **featured on December 22nd issue of the Secret Breakfast Newsletter as the picture of the year**. «It also resonated with me that it was so hard to ever shoot in the Dining Room featured in this image, as it is always full of life. From the crack of dawn, it is being prepared for breakfast, then breakfast runs all morning, a brief set up then for lunch, a service that goes on all afternoon and then into dinner, which can go into the small hours of the next day. Its 24/7 365 days of the year. For this to stop - during the pandemic - was very poignant».
 

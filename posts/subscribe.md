@@ -8,7 +8,7 @@ date: "2020-11-01"
 </p>
 
 <p>
-  We are gonna start soon and find together the missing ingredients that umami our lives. If you believe, subscribe, <a href="/posts/meet-me-at-the-longhouse">nibble some beta</a> or <a href="/posts/about">learn more</a>.
+  We are gonna find together the missing ingredients that umami our lives. If you believe, subscribe, <a href="/posts/meet-me-at-the-longhouse">nibble some beta</a> or <a href="/posts/about">learn more</a>.
 </p>
 
 

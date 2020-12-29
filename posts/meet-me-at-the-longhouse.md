@@ -5,9 +5,8 @@ date: "2020-11-01"
 
 ## Welcome to Secret Breakfast
 
-### An exclusive newsletter, the best place for starting your day and, when in Delaware, a tasty presidential prosciuttini
+### An exclusive newsletter, the best place for starting your day and, incidentally, a primitive spot you can be proud
 
-![proud](https://gallery.eomail5.com/2f942933-0bf5-11eb-a3d0-06b4694bee2a%2F1604348604846-capri.jpg)
 
 Hi there, today I booked for us a place into the future. 
 

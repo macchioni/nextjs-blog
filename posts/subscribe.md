@@ -15,75 +15,56 @@ date: "2020-11-01"
 
 
 
-<link rel="stylesheet"
-      href="https://emailoctopus.com/bundles/emailoctopuslist/css/1.6/form.css"
->
-<div class="emailoctopus-form-wrapper emailoctopus-form-default emailoctopus-form-wrapper-large"
-     style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif; color: rgb(26, 26, 26);"
->
-  <h2 class="emailoctopus-heading">
-    Join Secret Breakfast Newsletter
-  </h2>
-  <p class="emailoctopus-success-message">
-  </p>
-  <p class="emailoctopus-error-message">
-  </p>
-  <form action="https://emailoctopus.com/lists/bd6fe959-21bb-11eb-a3d0-06b4694bee2a/members/embedded/1.3s/add"
-        method="post"
-        data-message-success="You (almost) made it! 👉 Please, check your email for confirmation and click the link inside, probably into the SPAM folder, if you're using Gmail. You really need to do that, thank you!"
-        data-message-missing-email-address="Your email address is required."
-        data-message-invalid-email-address="Your email address looks incorrect, please try again."
-        data-message-bot-submission-error="This doesn't look like a human submission."
-        data-message-consent-required="Please check the checkbox to indicate your consent."
-        data-message-invalid-parameters-error="This form has missing or invalid fields."
-        data-message-unknown-error="Sorry, an unknown error has occurred. Please try again later."
-        class="emailoctopus-form"
-        data-sitekey="6LdYsmsUAAAAAPXVTt-ovRsPIJ_IVhvYBBhGvRV6"
-  >
-    <div class="emailoctopus-form-row">
-      <label for="field_1">
-        First name
-      </label>
-      <input id="field_1"
-             name="field_1"
-             type="text"
-             placeholder
-      >
-    </div>
-    <div class="emailoctopus-form-row">
-      <label for="field_0">
-        Email address
-      </label>
-      <input id="field_0"
-             name="field_0"
-             type="email"
-             placeholder
-             required="required"
-      >
-    </div>
-    <div aria-hidden="true"
-         class="emailoctopus-form-row-hp"
-    >
-      <input type="text"
-             name="hpc4b27b6e-eb38-11e9-be00-06b4694bee2a"
-             tabindex="-1"
-             autocomplete="nope"
-      >
-    </div>
-    <div class="emailoctopus-form-row-subscribe">
-      <input type="hidden"
-             name="successRedirectUrl"
-      >
-      <button type="submit"
-              style="background-color: rgb(223, 36, 91); color: rgb(255, 255, 255); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;"
-      >
-        Subscribe
-      </button>
-    </div>
-  </form>
+
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+  /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<style type="text/css">
+  #mc-embedded-subscribe-form input[type=checkbox]{display: inline; width: auto;margin-right: 10px;}
+  #mergeRow-gdpr {margin-top: 20px;}
+  #mergeRow-gdpr fieldset label {font-weight: normal;}
+  #mc-embedded-subscribe-form .mc_fieldset{border:none;min-height: 0px;padding-bottom:0px;}
+</style>
+<div id="mc_embed_signup">
+<form action="https://club.us1.list-manage.com/subscribe/post?u=f3a2dbee491ca226a10089937&amp;id=2a9d02f1f7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+  <h2>Subscribe</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+  <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+  <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
-<script src="https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-recaptcha.js">
-</script>
-<script src="https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-embed.js">
-</script>
+<div class="mc-field-group">
+  <label for="mce-FNAME">First Name </label>
+  <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
+    <div class="content__gdpr">
+        <label>Permissions</label>
+        <p>Please select the way you would like to hear from Secret Breakfast:</p>
+        <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
+    <label class="checkbox subfield" for="gdpr_40438"><input type="checkbox" id="gdpr_40438" name="gdpr[40438]" value="Y" class="av-checkbox gdpr"><span>Email</span> </label>
+        </fieldset>
+        <p>You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.</p>
+    </div>
+    <div class="content__gdprLegal">
+        <p>We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="https://mailchimp.com/legal/" target="_blank">Learn more about Mailchimp's privacy practices here.</a></p>
+    </div>
+</div>
+  <div id="mce-responses" class="clear">
+    <div class="response" id="mce-error-response" style="display:none"></div>
+    <div class="response" id="mce-success-response" style="display:none"></div>
+  </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_f3a2dbee491ca226a10089937_2a9d02f1f7" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
 

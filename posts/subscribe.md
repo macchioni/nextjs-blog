@@ -32,7 +32,7 @@ date: "2020-11-01"
 <div id="mc_embed_signup">
 <form action="https://club.us1.list-manage.com/subscribe/post?u=f3a2dbee491ca226a10089937&amp;id=2a9d02f1f7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-  <h2>Subscribe</h2>
+  <h2>Join Secret Breakfast Newsletter</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
   <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
@@ -53,7 +53,7 @@ date: "2020-11-01"
         <p>You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.</p>
     </div>
     <div class="content__gdprLegal">
-        <p>We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="https://mailchimp.com/legal/" target="_blank">Learn more about Mailchimp's privacy practices here.</a></p>
+        <p>GDPR stuff: We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="https://mailchimp.com/legal/" target="_blank">Learn more about Mailchimp's privacy practices here.</a></p>
     </div>
 </div>
   <div id="mce-responses" class="clear">

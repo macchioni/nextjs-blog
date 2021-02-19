@@ -45,7 +45,7 @@ date: "2020-11-01"
 </div>
 <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
     <div class="content__gdpr">
-        <label>Permissions</label>
+        <label>GDPR stuff</label>
         <p>Please select the way you would like to hear from Secret Breakfast:</p>
         <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
     <label class="checkbox subfield" for="gdpr_40438"><input type="checkbox" id="gdpr_40438" name="gdpr[40438]" value="Y" class="av-checkbox gdpr"><span>Email</span> </label>
@@ -53,7 +53,7 @@ date: "2020-11-01"
         <p>You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.</p>
     </div>
     <div class="content__gdprLegal">
-        <p>GDPR stuff: We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="https://mailchimp.com/legal/" target="_blank">Learn more about Mailchimp's privacy practices here.</a></p>
+        <p>We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="https://mailchimp.com/legal/" target="_blank">Learn more about Mailchimp's privacy practices here.</a></p>
     </div>
 </div>
   <div id="mce-responses" class="clear">
